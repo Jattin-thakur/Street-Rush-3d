@@ -1,0 +1,14 @@
+{
+    "coins": 442,
+    "best_score": 60,
+    "selected_car": 0,
+    "unlocked_cars": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "max_level": 8,
+    "selected_theme": 1
+}

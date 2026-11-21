@@ -1,0 +1,8 @@
+{
+    "coins": 10,
+    "selected_car": "Blue GT",
+    "unlocked_cars": [
+        "Red Racer",
+        "Blue GT"
+    ]
+}
